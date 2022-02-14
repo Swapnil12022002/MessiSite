@@ -106,9 +106,28 @@ hr {
   width: 1150px;
   float: right;
   margin-top: 130px;
+  font-family: "Open Sans", sans-serif;
 }
 .para2 {
 width: 1100px;
 margin-left: 100px;
 padding-top: 100px;
+font-family: "Open Sans", sans-serif;
+}
+.Container3{
+margin-top: 200px;
+}
+.Third{
+border-radius: 40%;
+margin-left: 270px;
+}
+.para3{
+float: right;
+width: 1000px;
+margin-right: 275px;
+margin-top: 150px;
+font-family: "Open Sans", sans-serif;
+}
+.flawhr{
+  margin-top: 150px;
 }
